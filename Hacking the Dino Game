@@ -1,0 +1,10 @@
+Make your Chrome Dino Run as Invincible.
+
+Runner.prototype.gameOver = function() {};
+
+copy that code on your Console and Enjoy using.
+
+
+Increase the Chrome Dino Game Speed
+
+Runner.instance_.setSpeed(100);
